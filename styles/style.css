@@ -13,7 +13,6 @@
 }
 .header__menu-list {
     display:flex;
-    gap: 18px;
     gap:30px;
     list-style-position: inside;
     justify-self: center;
@@ -53,7 +52,7 @@
 .cover {
     min-height: 757px;
     width:100%;
-    overflow: hidden;;
+    overflow: hidden;
     position: relative;
 }
 .background-image {
@@ -95,7 +94,6 @@
     text-align: center;
     margin-top: 20px;
     margin-left: 28px;
-    
 }
 .text-right {
     text-align:right;
@@ -307,7 +305,7 @@ margin-left:64px;
     width:48px;
     height: 48px;
 }
-.footer__social-list  {
+.footer__social-list {
     list-style: none;
     grid-column: 3 / 4;
     display: flex;
